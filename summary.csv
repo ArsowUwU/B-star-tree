@@ -1,0 +1,4 @@
+operation;average_time_ns;average_operations
+insert;11661.85;1344.86
+search;54684.00;1346.35
+delete;44270.80;1304.98
